@@ -1,0 +1,19 @@
+.textblock {
+  margin-top: 2%;
+  border-radius: 0;
+}
+
+.myimg{
+  align-self: center;
+}
+
+.headline {
+  font-family: "Oswald";
+  margin:2%;
+}
+
+.text {
+  margin: 5%;
+  align-self:center;
+  font-family: "Oswald"
+}
